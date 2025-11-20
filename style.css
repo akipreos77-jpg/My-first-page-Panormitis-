@@ -1,1 +1,15 @@
-
+h1{
+    display: flex;
+    background-color: rgb(220, 119, 11);
+    justify-content: center;
+}
+body{
+  background-color: rgb(216, 150, 35);
+}
+p{
+    background-color: rgb(211, 185, 17);
+}
+img{
+    width: 300px;
+    display: flex;
+}
