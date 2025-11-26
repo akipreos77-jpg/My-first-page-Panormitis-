@@ -1,15 +1,28 @@
 h1{
     display: flex;
-    background-color: rgb(220, 119, 11);
+    background-color: rgb(192, 14, 14);
     justify-content: center;
 }
 body{
-  background-color: rgb(216, 150, 35);
+  background-color: rgb(183, 183, 183);
 }
 p{
-    background-color: rgb(211, 185, 17);
+
+    background-color: white;
+    font-size: 50px;
+    text-align:center;
+}
+div{
+    justify-content:center;
+    display:flex;
+}
+p:hover{
+    color: rgb(8, 0, 255);
 }
 img{
-    width: 300px;
-    display: flex;
+    width:250px;
+    height:250px;
+}
+h1:hover{
+    color: rgb(8, 0, 255);
 }
